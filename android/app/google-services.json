@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975417512850",
+    "project_id": "xuantruong-c03bf",
+    "storage_bucket": "xuantruong-c03bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975417512850:android:e51aa9e2537a18020fa74b",
+        "android_client_info": {
+          "package_name": "com.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTahhoqUFwmE_iHw1PjFs9ECZ6zJOVuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
